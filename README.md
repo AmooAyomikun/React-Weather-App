@@ -95,12 +95,3 @@ The application is designed to work across:
 
 - Font Awesome
 
-
-
-
-
-GitHub: https://github.com/yourusername
-
-LinkedIn: https://linkedin.com/in/yourprofile
-
-Portfolio: https://yourportfolio.com
